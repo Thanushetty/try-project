@@ -1,4 +1,4 @@
 name=thanu
-status=female
+DOB=10/01/1999
 bloodgroup=ab+
-
+lyf is very confused
